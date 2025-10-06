@@ -36,6 +36,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 
 ## Basic Build Instructions
+<!-- Last updated: 2026-09-10T21:04:20+07:00 -->
 
   1. Download Lazarus 2.2.2 from https://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2064%20bits/Lazarus%202.2.2/ First install lazarus-2.2.2-fpc-3.2.2-win64.exe and then lazarus-2.2.2-fpc-3.2.2-cross-i386-win32-win64.exe
   
@@ -58,5 +59,4 @@ Cheat Engine is a development environment focused on modding games and applicati
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
     
-<!-- Last updated: 2026-09-10T21:04:20+07:00 -->
 *.SLN files require visual studio (Usually 2017)
