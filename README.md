@@ -12,6 +12,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 # Download
 
   * **[Latest Version](https://github.com/cheat-engine/cheat-engine/releases/latest)**
+<!-- Last updated: 2026-09-10T21:04:20+07:00 -->
 
 [Older versions](https://github.com/cheat-engine/cheat-engine/releases)
 
@@ -19,7 +20,6 @@ Cheat Engine is a development environment focused on modding games and applicati
 # Links
 
   * [Website](https://www.cheatengine.org)
-<!-- Last updated: 2026-09-10T21:04:20+07:00 -->
   * [Forum](https://forum.cheatengine.org)
   * [Forum (alternate)](https://opencheattables.com/)
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
