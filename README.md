@@ -23,7 +23,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Forum (alternate)](https://opencheattables.com/)
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
   * [Wiki](https://wiki.cheatengine.org/index.php?title=Main_Page)
-<!-- Last updated: 2026-09-10T21:04:20+07:00 -->
 
 ## Social Media
 
@@ -52,6 +51,7 @@ Cheat Engine is a development environment focused on modding games and applicati
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
+<!-- Last updated: 2026-09-10T21:04:20+07:00 -->
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
