@@ -26,6 +26,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 ## Social Media
 
+<!-- Last updated: 2026-09-11T08:19:22+07:00 -->
   * [Reddit](https://reddit.com/r/cheatengine)
   * [Twitter](https://twitter.com/_cheatengine)
 
@@ -34,7 +35,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Patreon](https://www.patreon.com/cheatengine)
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
 
-<!-- Last updated: 2026-09-11T08:19:22+07:00 -->
 
 <!-- Last updated: 2026-09-10T21:04:37+07:00 -->
 ## Basic Build Instructions
