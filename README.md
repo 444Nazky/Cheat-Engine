@@ -2,6 +2,7 @@
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
+<!-- Last updated: 2026-09-10T21:04:21+07:00 -->
 </p>
 
 <h1 align="center">Cheat Engine</h1>
