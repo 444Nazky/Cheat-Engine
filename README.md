@@ -35,6 +35,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
 
 
+<!-- Last updated: 2026-09-10T21:04:22+07:00 -->
 ## Basic Build Instructions
 
   1. Download Lazarus 2.2.2 from https://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2064%20bits/Lazarus%202.2.2/ First install lazarus-2.2.2-fpc-3.2.2-win64.exe and then lazarus-2.2.2-fpc-3.2.2-cross-i386-win32-win64.exe
@@ -46,7 +47,6 @@ Cheat Engine is a development environment focused on modding games and applicati
       
   Do not forget to compile secondary projects you'd like to use:
   
-<!-- Last updated: 2026-09-10T21:04:22+07:00 -->
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
