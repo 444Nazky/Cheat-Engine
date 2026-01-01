@@ -1,4 +1,5 @@
 <p align="center">
+<!-- Last updated: 2026-09-11T08:22:05+07:00 -->
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
@@ -61,4 +62,3 @@ Cheat Engine is a development environment focused on modding games and applicati
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
     
 *.SLN files require visual studio (Usually 2017)
-<!-- Last updated: 2026-09-11T08:22:05+07:00 -->
