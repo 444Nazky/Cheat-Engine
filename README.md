@@ -33,6 +33,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 ## Donate
 
   * [Patreon](https://www.patreon.com/cheatengine)
+<!-- Last updated: 2026-09-11T08:22:06+07:00 -->
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
 
 
@@ -47,7 +48,6 @@ Cheat Engine is a development environment focused on modding games and applicati
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
       
   Do not forget to compile secondary projects you'd like to use:
-<!-- Last updated: 2026-09-11T08:22:06+07:00 -->
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
