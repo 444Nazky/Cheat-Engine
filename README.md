@@ -2,7 +2,6 @@
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
-<!-- Last updated: 2026-09-11T08:19:27+07:00 -->
 </p>
 
 <h1 align="center">Cheat Engine</h1>
@@ -25,6 +24,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
   * [Wiki](https://wiki.cheatengine.org/index.php?title=Main_Page)
 
+<!-- Last updated: 2026-09-11T08:19:27+07:00 -->
 ## Social Media
 
   * [Reddit](https://reddit.com/r/cheatengine)
