@@ -52,6 +52,7 @@ Cheat Engine is a development environment focused on modding games and applicati
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
+<!-- Last updated: 2026-09-11T08:22:06+07:00 -->
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
