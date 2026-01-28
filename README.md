@@ -6,7 +6,6 @@
 
 <h1 align="center">Cheat Engine</h1>
 
-<!-- Last updated: 2026-09-10T21:04:25+07:00 -->
 Cheat Engine is a development environment focused on modding games and applications for personal use.
 
 
@@ -15,6 +14,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   * **[Latest Version](https://github.com/cheat-engine/cheat-engine/releases/latest)**
 
 [Older versions](https://github.com/cheat-engine/cheat-engine/releases)
+<!-- Last updated: 2026-09-10T21:04:25+07:00 -->
 
 
 # Links
