@@ -14,7 +14,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   * **[Latest Version](https://github.com/cheat-engine/cheat-engine/releases/latest)**
 
 [Older versions](https://github.com/cheat-engine/cheat-engine/releases)
-<!-- Last updated: 2026-09-10T21:04:25+07:00 -->
 
 
 # Links
@@ -60,3 +59,4 @@ Cheat Engine is a development environment focused on modding games and applicati
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
     
 *.SLN files require visual studio (Usually 2017)
+<!-- Last updated: 2026-09-10T21:04:25+07:00 -->
