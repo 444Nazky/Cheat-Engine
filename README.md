@@ -17,7 +17,6 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 
 # Links
-<!-- Last updated: 2026-09-10T21:04:26+07:00 -->
 
   * [Website](https://www.cheatengine.org)
   * [Forum](https://forum.cheatengine.org)
@@ -26,6 +25,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Wiki](https://wiki.cheatengine.org/index.php?title=Main_Page)
 
 ## Social Media
+<!-- Last updated: 2026-09-10T21:04:26+07:00 -->
 
   * [Reddit](https://reddit.com/r/cheatengine)
   * [Twitter](https://twitter.com/_cheatengine)
