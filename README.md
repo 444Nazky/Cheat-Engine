@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">Cheat Engine</h1>
+<!-- Last updated: 2026-09-10T21:04:26+07:00 -->
 
 Cheat Engine is a development environment focused on modding games and applications for personal use.
 
@@ -45,7 +46,6 @@ Cheat Engine is a development environment focused on modding games and applicati
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
       
   Do not forget to compile secondary projects you'd like to use:
-<!-- Last updated: 2026-09-10T21:04:26+07:00 -->
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
