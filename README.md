@@ -32,6 +32,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 ## Donate
 
   * [Patreon](https://www.patreon.com/cheatengine)
+<!-- Last updated: 2026-09-11T08:19:28+07:00 -->
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
 
 
@@ -44,7 +45,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
-<!-- Last updated: 2026-09-11T08:19:28+07:00 -->
       
   Do not forget to compile secondary projects you'd like to use:
   
