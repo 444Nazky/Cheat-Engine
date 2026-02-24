@@ -33,13 +33,13 @@ Cheat Engine is a development environment focused on modding games and applicati
 
   * [Patreon](https://www.patreon.com/cheatengine)
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
+<!-- Last updated: 2026-09-10T21:04:26+07:00 -->
 
 
 ## Basic Build Instructions
 
   1. Download Lazarus 2.2.2 from https://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2064%20bits/Lazarus%202.2.2/ First install lazarus-2.2.2-fpc-3.2.2-win64.exe and then lazarus-2.2.2-fpc-3.2.2-cross-i386-win32-win64.exe
   
-<!-- Last updated: 2026-09-10T21:04:26+07:00 -->
   2. Run Lazarus and click on `Project->Open Project`. Select `cheatengine.lpi` from the `Cheat Engine` folder as the project.
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
