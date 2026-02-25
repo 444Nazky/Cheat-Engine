@@ -31,6 +31,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 ## Donate
 
+<!-- Last updated: 2026-09-10T21:04:27+07:00 -->
   * [Patreon](https://www.patreon.com/cheatengine)
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
 
@@ -58,5 +59,4 @@ Cheat Engine is a development environment focused on modding games and applicati
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
     
-<!-- Last updated: 2026-09-10T21:04:27+07:00 -->
 *.SLN files require visual studio (Usually 2017)
