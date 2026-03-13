@@ -33,7 +33,6 @@ Cheat Engine is a development environment focused on modding games and applicati
 
   * [Patreon](https://www.patreon.com/cheatengine)
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
-<!-- Last updated: 2026-09-10T21:04:27+07:00 -->
 
 
 ## Basic Build Instructions
@@ -57,6 +56,7 @@ Cheat Engine is a development environment focused on modding games and applicati
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
      tcclib.sln: Compile 32-32, 64-32 and 64-64 to add {$C} and {$CCODE} support in scripts
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
+<!-- Last updated: 2026-09-10T21:04:27+07:00 -->
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
     
 *.SLN files require visual studio (Usually 2017)
