@@ -16,6 +16,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 [Older versions](https://github.com/cheat-engine/cheat-engine/releases)
 
 
+<!-- Last updated: 2026-09-11T08:22:09+07:00 -->
 # Links
 
 <!-- Last updated: 2026-09-11T08:19:38+07:00 -->
@@ -48,7 +49,6 @@ Cheat Engine is a development environment focused on modding games and applicati
       
   Do not forget to compile secondary projects you'd like to use:
   
-<!-- Last updated: 2026-09-11T08:22:09+07:00 -->
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
