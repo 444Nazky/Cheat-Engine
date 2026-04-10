@@ -6,6 +6,7 @@
 
 <h1 align="center">Cheat Engine</h1>
 
+<!-- Last updated: 2026-09-10T21:04:29+07:00 -->
 Cheat Engine is a development environment focused on modding games and applications for personal use.
 
 
@@ -30,7 +31,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Twitter](https://twitter.com/_cheatengine)
 
 ## Donate
-<!-- Last updated: 2026-09-10T21:04:29+07:00 -->
 
   * [Patreon](https://www.patreon.com/cheatengine)
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
