@@ -19,6 +19,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 # Links
 
 <!-- Last updated: 2026-09-11T08:19:38+07:00 -->
+<!-- Last updated: 2026-09-11T08:22:10+07:00 -->
   * [Website](https://www.cheatengine.org)
   * [Forum](https://forum.cheatengine.org)
   * [Forum (alternate)](https://opencheattables.com/)
@@ -50,7 +51,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
-<!-- Last updated: 2026-09-11T08:22:10+07:00 -->
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
