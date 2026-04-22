@@ -45,7 +45,6 @@ Cheat Engine is a development environment focused on modding games and applicati
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
       
   Do not forget to compile secondary projects you'd like to use:
-<!-- Last updated: 2026-09-10T21:04:30+07:00 -->
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
@@ -60,3 +59,4 @@ Cheat Engine is a development environment focused on modding games and applicati
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
     
 *.SLN files require visual studio (Usually 2017)
+<!-- Last updated: 2026-09-10T21:04:30+07:00 -->
