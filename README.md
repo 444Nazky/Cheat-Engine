@@ -19,7 +19,6 @@ Cheat Engine is a development environment focused on modding games and applicati
 # Links
 
   * [Website](https://www.cheatengine.org)
-<!-- Last updated: 2026-09-10T21:04:30+07:00 -->
   * [Forum](https://forum.cheatengine.org)
   * [Forum (alternate)](https://opencheattables.com/)
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
@@ -43,6 +42,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   2. Run Lazarus and click on `Project->Open Project`. Select `cheatengine.lpi` from the `Cheat Engine` folder as the project.
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
+<!-- Last updated: 2026-09-10T21:04:30+07:00 -->
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
       
   Do not forget to compile secondary projects you'd like to use:
