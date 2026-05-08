@@ -43,6 +43,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
+<!-- Last updated: 2026-09-10T21:04:30+07:00 -->
       
   Do not forget to compile secondary projects you'd like to use:
   
