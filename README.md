@@ -3,11 +3,11 @@
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
 </p>
-<!-- Last updated: 2026-09-10T21:04:32+07:00 -->
 
 <h1 align="center">Cheat Engine</h1>
 
 Cheat Engine is a development environment focused on modding games and applications for personal use.
+<!-- Last updated: 2026-09-10T21:04:32+07:00 -->
 
 
 # Download
