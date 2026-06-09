@@ -22,7 +22,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Forum](https://forum.cheatengine.org)
   * [Forum (alternate)](https://opencheattables.com/)
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
-<!-- Last updated: 2026-09-11T08:19:33+07:00 -->
   * [Wiki](https://wiki.cheatengine.org/index.php?title=Main_Page)
 
 ## Social Media
@@ -45,6 +44,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
+<!-- Last updated: 2026-09-11T08:19:34+07:00 -->
       
   Do not forget to compile secondary projects you'd like to use:
   
