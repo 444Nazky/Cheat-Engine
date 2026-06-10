@@ -1,6 +1,5 @@
 <p align="center">
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
-<!-- Last updated: 2026-09-11T08:19:34+07:00 -->
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
 </p>
