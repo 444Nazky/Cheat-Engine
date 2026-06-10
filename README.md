@@ -2,7 +2,6 @@
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
-<!-- Last updated: 2026-09-10T21:04:32+07:00 -->
 </p>
 
 <h1 align="center">Cheat Engine</h1>
@@ -48,6 +47,7 @@ Cheat Engine is a development environment focused on modding games and applicati
   Do not forget to compile secondary projects you'd like to use:
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
+<!-- Last updated: 2026-09-10T21:04:32+07:00 -->
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
