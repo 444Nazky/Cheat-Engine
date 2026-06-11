@@ -10,12 +10,12 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 
 # Download
-<!-- Last updated: 2026-09-10T21:04:32+07:00 -->
 
   * **[Latest Version](https://github.com/cheat-engine/cheat-engine/releases/latest)**
 
 [Older versions](https://github.com/cheat-engine/cheat-engine/releases)
 
+<!-- Last updated: 2026-09-10T21:04:32+07:00 -->
 
 # Links
 
