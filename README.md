@@ -49,13 +49,13 @@ Cheat Engine is a development environment focused on modding games and applicati
   Do not forget to compile secondary projects you'd like to use:
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
-<!-- Last updated: 2026-09-11T08:22:13+07:00 -->
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
+<!-- Last updated: 2026-09-11T08:22:13+07:00 -->
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
      tcclib.sln: Compile 32-32, 64-32 and 64-64 to add {$C} and {$CCODE} support in scripts
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
