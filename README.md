@@ -41,7 +41,6 @@ Cheat Engine is a development environment focused on modding games and applicati
   1. Download Lazarus 2.2.2 from https://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2064%20bits/Lazarus%202.2.2/ First install lazarus-2.2.2-fpc-3.2.2-win64.exe and then lazarus-2.2.2-fpc-3.2.2-cross-i386-win32-win64.exe
   
   2. Run Lazarus and click on `Project->Open Project`. Select `cheatengine.lpi` from the `Cheat Engine` folder as the project.
-<!-- Last updated: 2026-09-11T08:19:34+07:00 -->
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
@@ -56,6 +55,7 @@ Cheat Engine is a development environment focused on modding games and applicati
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
+<!-- Last updated: 2026-09-11T08:19:34+07:00 -->
      tcclib.sln: Compile 32-32, 64-32 and 64-64 to add {$C} and {$CCODE} support in scripts
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
