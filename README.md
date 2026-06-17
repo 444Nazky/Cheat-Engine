@@ -21,6 +21,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 <!-- Last updated: 2026-09-11T08:19:38+07:00 -->
   * [Website](https://www.cheatengine.org)
   * [Forum](https://forum.cheatengine.org)
+<!-- Last updated: 2026-09-11T08:22:13+07:00 -->
   * [Forum (alternate)](https://opencheattables.com/)
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
   * [Wiki](https://wiki.cheatengine.org/index.php?title=Main_Page)
@@ -59,6 +60,5 @@ Cheat Engine is a development environment focused on modding games and applicati
      tcclib.sln: Compile 32-32, 64-32 and 64-64 to add {$C} and {$CCODE} support in scripts
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
      dbkkernel.sln: for kernelmode functions (settings->extra) You will need to build the no-sig version and either boot with unsigned driver support, or sign the driver yourself    
-<!-- Last updated: 2026-09-11T08:22:13+07:00 -->
     
 *.SLN files require visual studio (Usually 2017)
