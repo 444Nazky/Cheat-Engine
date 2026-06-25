@@ -1,5 +1,4 @@
 <p align="center">
-<!-- Last updated: 2026-09-10T21:04:33+07:00 -->
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
@@ -52,6 +51,7 @@ Cheat Engine is a development environment focused on modding games and applicati
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
+<!-- Last updated: 2026-09-10T21:04:33+07:00 -->
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
