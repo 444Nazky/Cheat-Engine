@@ -3,7 +3,6 @@
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
     </a>
 </p>
-<!-- Last updated: 2026-09-10T21:04:33+07:00 -->
 
 <h1 align="center">Cheat Engine</h1>
 
