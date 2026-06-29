@@ -33,6 +33,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 
   * [Patreon](https://www.patreon.com/cheatengine)
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
+<!-- Last updated: 2026-09-11T08:19:35+07:00 -->
 
 
 <!-- Last updated: 2026-09-10T21:04:37+07:00 -->
@@ -53,7 +54,6 @@ Cheat Engine is a development environment focused on modding games and applicati
      DotNetcompiler.sln: for the cscompile lua command
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
-<!-- Last updated: 2026-09-11T08:19:35+07:00 -->
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
      tcclib.sln: Compile 32-32, 64-32 and 64-64 to add {$C} and {$CCODE} support in scripts
