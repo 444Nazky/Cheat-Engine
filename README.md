@@ -26,6 +26,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 ## Social Media
 
+<!-- Last updated: 2026-09-11T08:19:35+07:00 -->
   * [Reddit](https://reddit.com/r/cheatengine)
   * [Twitter](https://twitter.com/_cheatengine)
 
@@ -45,7 +46,6 @@ Cheat Engine is a development environment focused on modding games and applicati
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
       
-<!-- Last updated: 2026-09-11T08:19:35+07:00 -->
   Do not forget to compile secondary projects you'd like to use:
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
