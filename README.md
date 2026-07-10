@@ -8,7 +8,6 @@
 
 Cheat Engine is a development environment focused on modding games and applications for personal use.
 
-<!-- Last updated: 2026-09-10T21:04:34+07:00 -->
 
 # Download
 
