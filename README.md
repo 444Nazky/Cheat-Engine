@@ -42,13 +42,13 @@ Cheat Engine is a development environment focused on modding games and applicati
   
   2. Run Lazarus and click on `Project->Open Project`. Select `cheatengine.lpi` from the `Cheat Engine` folder as the project.
   3. Click on `Run->Build` or press <kbd>SHIFT+F9</kbd>.
-<!-- Last updated: 2026-09-11T08:19:36+07:00 -->
       * you can also click on `Run->Compile many Modes` (tip: select first three compile modes)
       * If you want to run or debug from the IDE on Windows you will need to run Lazarus as administrator.
       
   Do not forget to compile secondary projects you'd like to use:
   
      speedhack.lpr: Compile both 32- and 64-bit DLL's for speedhack capability
+<!-- Last updated: 2026-09-11T08:19:36+07:00 -->
      luaclient.lpr: Compile both 32- and 64-bit DLL's for {$luacode} capability
      DirectXMess.sln: Compile for 32-bit and 64-bit for D3D overlay and snapshot capabilities
      DotNetcompiler.sln: for the cscompile lua command
