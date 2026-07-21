@@ -32,6 +32,7 @@ Cheat Engine is a development environment focused on modding games and applicati
 ## Donate
 
   * [Patreon](https://www.patreon.com/cheatengine)
+<!-- Last updated: 2026-09-10T21:04:34+07:00 -->
   * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
 
 
