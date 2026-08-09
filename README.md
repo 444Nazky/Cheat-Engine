@@ -1,6 +1,7 @@
 <p align="center">
     <a href="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images">
         <img src="https://github.com/cheat-engine/cheat-engine/raw/master/Cheat%20Engine/images/celogo.png" />
+<!-- Last updated: 2026-09-11T08:19:37+07:00 -->
     </a>
 </p>
 
@@ -9,7 +10,6 @@
 Cheat Engine is a development environment focused on modding games and applications for personal use.
 
 
-<!-- Last updated: 2026-09-11T08:19:37+07:00 -->
 # Download
 
   * **[Latest Version](https://github.com/cheat-engine/cheat-engine/releases/latest)**
