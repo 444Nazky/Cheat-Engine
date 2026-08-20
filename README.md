@@ -16,7 +16,6 @@ Cheat Engine is a development environment focused on modding games and applicati
 [Older versions](https://github.com/cheat-engine/cheat-engine/releases)
 
 
-<!-- Last updated: 2026-09-11T08:22:17+07:00 -->
 # Links
 
 <!-- Last updated: 2026-09-11T08:19:38+07:00 -->
@@ -56,6 +55,7 @@ Cheat Engine is a development environment focused on modding games and applicati
      monodatacollector.sln: Compile both 32-bit and 64-bit dll's to get Mono features to inspect the .NET environment of the process    
      dotnetdatacollector.sln: Compile both 32- and 64-bit EXE's to get .NET symbols
      dotnetinvasivedatacollector.sln: Compile this managed .DLL to add support for runtime JIT support
+<!-- Last updated: 2026-09-11T08:22:18+07:00 -->
      cejvmti.sln: Compile both 32- and 64-bit DLL's for Java inspection support
      tcclib.sln: Compile 32-32, 64-32 and 64-64 to add {$C} and {$CCODE} support in scripts
      vehdebug.lpr: Compile 32- and 64-bit DLL's to add support for the VEH debugger interface
