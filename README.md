@@ -24,10 +24,10 @@ Cheat Engine is a development environment focused on modding games and applicati
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
   * [Wiki](https://wiki.cheatengine.org/index.php?title=Main_Page)
 
+<!-- Last updated: 2026-09-10T21:04:36+07:00 -->
 ## Social Media
 
   * [Reddit](https://reddit.com/r/cheatengine)
-<!-- Last updated: 2026-09-10T21:04:36+07:00 -->
   * [Twitter](https://twitter.com/_cheatengine)
 
 ## Donate
