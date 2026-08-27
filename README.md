@@ -20,7 +20,6 @@ Cheat Engine is a development environment focused on modding games and applicati
 
 <!-- Last updated: 2026-09-11T08:19:38+07:00 -->
   * [Website](https://www.cheatengine.org)
-<!-- Last updated: 2026-09-11T08:22:18+07:00 -->
   * [Forum](https://forum.cheatengine.org)
   * [Forum (alternate)](https://opencheattables.com/)
   * [Forum (alternate)](https://fearlessrevolution.com/index.php)
